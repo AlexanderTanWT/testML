@@ -1,0 +1,8 @@
+path:
+    data: 'D:/Code/Python/testML/data/'
+    model: 'D:/Code/Python/testML/model/'
+    result: 'D:/Code/Python/testML/result/'
+
+kFold:
+    outer: 10
+    inner: 5
